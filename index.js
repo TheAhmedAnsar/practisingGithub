@@ -39,6 +39,10 @@ function numSeven() {
     return 7;
 }
 
+function numEight() {
+    return 8;
+}
+
 
 
 
