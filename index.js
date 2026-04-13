@@ -47,6 +47,11 @@ function numNine() {
     return 9;
 }
 
+function numTen() {
+    return 10;
+}
+
+
 
 
 
