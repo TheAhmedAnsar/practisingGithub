@@ -35,5 +35,10 @@ function numSix() {
     return 6;
 }
 
+function numSeven() {
+    return 7;
+}
+
+
 
 
