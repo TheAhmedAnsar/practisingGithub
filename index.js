@@ -7,3 +7,7 @@ function guessAge(age = 24) {
     return console.log(age);
 }
 
+function numOne() {
+    return 1;
+}
+
