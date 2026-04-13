@@ -11,3 +11,9 @@ function numOne() {
     return 1;
 }
 
+
+function numTwo(){
+    return 2;
+}
+
+
