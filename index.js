@@ -12,8 +12,12 @@ function numOne() {
 }
 
 
-function numTwo(){
+function numTwo() {
     return 2;
+}
+
+function numThree() {
+    return 3;
 }
 
 
