@@ -20,4 +20,8 @@ function numThree() {
     return 3;
 }
 
+function numFour() {
+    return 4;
+}
+
 
