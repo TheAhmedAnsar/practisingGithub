@@ -43,6 +43,10 @@ function numEight() {
     return 8;
 }
 
+function numNine() {
+    return 9;
+}
+
 
 
 
