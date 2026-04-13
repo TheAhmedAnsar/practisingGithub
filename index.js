@@ -25,3 +25,15 @@ function numFour() {
 }
 
 
+
+function numFive() {
+    return 5;
+}
+
+
+function numSix() {
+    return 6;
+}
+
+
+
