@@ -2,7 +2,7 @@ const name = "Ahmed";
 const lastName = "Ansari"
 let age = 24;
 
-function guessAge(age = 23) {
+function guessAge(age = 25) {
     console.log(age);
     return console.log(age);
 }
